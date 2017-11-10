@@ -25,8 +25,8 @@ Although the license is made to work well on the [Faircode](https://faircode.io)
 
 Currently the license is in an alpha stage. The roadmap towards a 1.0 release is as follows:
 
-- Now until Feb 1st 2018: **Alpha period.** We'll iterate the license based on how people use it and the feedback we get.
-- After Feb 1st 2018: **Review period.** At this point we get the lawyers involved. We'll clean up any legal kinks and specks that make things needlessly ambiguous or unclear. We'll continuously merge changes back to the repo so people can see what's going on.
+- Now until Jan 9 2018: **Feedback & comments period.** We'll iterate the license based on how people use it and the feedback we get.
+- After Jan 9 2018: **Legal review period.** At this point we get the lawyers involved. We'll clean up any legal kinks and specks that make things needlessly ambiguous or unclear. We'll continuously merge changes back to the repo so people can see what's going on.
 - When the review is done: **1.0 release.**
 
 The work doesn't stop after 1.0 though, it's just the first milestone to have a workable license. After that we'll iterate and improve as needed, depending on what real world problems and solutions we see.
