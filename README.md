@@ -54,7 +54,7 @@ And finally, you can help out by letting people know about this repo. Share it w
 
 ## How do I use an alpha license?
 
-Keep an eye on this repository as the license evolves. We'll use semver to version it. We recommend upgrading to the latest version as soon as it comes out. It's not for everyone to try something new like this, but those who do will help shape what this license is and how it's used, and set examples for future developers who want to try something similar.
+Keep an eye on this repository as the license evolves. We'll use semver to version it (see changes in the [CHANGELOG](CHANGELOG.md)). We recommend upgrading to the latest version as soon as it comes out. It's not for everyone to try something new like this, but those who do will help shape what this license is and how it's used, and set examples for future developers who want to try something similar.
 
 ## Where can I read more
 
