@@ -48,7 +48,7 @@ Things we _don't_ have much use for:
 
 - Opinions on Open Source _vs._ Faircode. It's just licenses, and they're solving different needs.
 
-You can also sponsor the Kickstarter campaign (_not available yet, check back in a few days_) so we can pay the lawyers. If we raise more than we need for the lawyers, we'll donate the rest to projects on Faircode, by distributing it equally to all Faircode licensed projects on the platform.
+You can also sponsor the [Kickstarter campaign](https://www.kickstarter.com/projects/839120961/the-faircode-license) so we can pay the lawyers. If we raise more than we need for the lawyers, we'll donate the rest to projects on Faircode, by distributing it equally to all Faircode licensed projects on the platform.
 
 And finally, you can help out by letting people know about this repo. Share it with your friends and on social media. We'll use the [@faircodeio](https://twitter.com/faircodeio) account on Twitter to share news.
 
