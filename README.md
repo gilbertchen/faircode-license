@@ -1,7 +1,5 @@
 # The Faircode License
 
-[See the full license text here](License.md)
-
 This is the public repository of the Faircode License. It's a young and experimental license for people who want to make a living from their code by selling licenses to companies and organizations (but keep their code free for individuals and small businesses). It's meant to be an alternative to, or complement to, [OSI](https://opensource.org/) Open Source licenses.
 
 The goals for this license are:
@@ -20,6 +18,40 @@ There are two ways to use the license:
 The motivation behind creating this license is that we want to enable people to work on what they're passionate about. If you love programming, and you're creating something awesome, you should be able to easily charge those who can afford it, so that you can keep developing it. We're programmers ourselves and would like to have the opportunity to do this ourselves. We also think this is in the interest of companies, who by paying for the software they rely on can increase chances it doesn't become abandoned as the developers get burned out.
 
 Although the license is made to work well on the [Faircode](https://faircode.io) platform, we don't want it to be limited to that. It should work equally well if you want to use it independently or with other platforms.
+
+## The license (version 0.2)
+
+This is the full license text and can be copied into your repository.
+
+```
+## {Project name} license (Faircode v0.2)
+
+Copyright (C) {Year} {Copyright holder}
+
+Permission is hereby granted to any person obtaining a copy of this software
+and associated documentation files (the "Software"), to deal in the Software
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies ("Use") of
+the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+If you are a commercial entity with a revenue in excess of $1,000,000 of the
+previous fiscal year, and/or organization with a budget in excess of 1,000,000
+USD, you must acquire a commercial license grant from {Copyright holder} to
+Use this software. A commercial license grant can be acquired at
+[{Purchase url}]({Purchase url}).
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ## Roadmap to 1.0
 
