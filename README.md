@@ -64,3 +64,7 @@ Keep an eye on this repository as the license evolves. We'll use semver to versi
 ## Who's behind this?
 
 [Fredrik Norén](https://github.com/FredrikNoren) is the original author and owner of the repo. But anyone who wants to get involved is part of it. The license is for you.
+
+## License to use this license
+
+Finally, the license is to be considered free and fully available to anyone and everyone. You may use it, copy it, create derivatives and do whatever you want with it. Use it at your own risk, we take no responibility in any damages caused in the usage of this license. Make sure you've read and understood it before applying it to your project.
