@@ -52,6 +52,10 @@ You can also sponsor the [Kickstarter campaign](https://www.kickstarter.com/proj
 
 And finally, you can help out by letting people know about this repo. Share it with your friends and on social media. We'll use the [@faircodeio](https://twitter.com/faircodeio) account on Twitter to share news.
 
+## Kickstarter backers
+
+See [BACKERS](BACKERS.md).
+
 ## How do I use an alpha license?
 
 Keep an eye on this repository as the license evolves. We'll use semver to version it (see changes in the [CHANGELOG](CHANGELOG.md)). We recommend upgrading to the latest version as soon as it comes out. It's not for everyone to try something new like this, but those who do will help shape what this license is and how it's used, and set examples for future developers who want to try something similar.
