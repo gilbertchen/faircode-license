@@ -2,7 +2,7 @@
 
 [See the full license text here](License.md)
 
-This is the public repository of the Faircode License. It's a young and experimental license for people who want to make a living from their code by selling licenses to companies and organizations. It's meant to be an alternative to, or complement to, [OSI](https://opensource.org/) Open Source licenses.
+This is the public repository of the Faircode License. It's a young and experimental license for people who want to make a living from their code by selling licenses to companies and organizations (but keep their code free for individuals and small businesses). It's meant to be an alternative to, or complement to, [OSI](https://opensource.org/) Open Source licenses.
 
 The goals for this license are:
 
