@@ -1,7 +1,11 @@
 ## Byte Sponsors
 
 - Meghan Kane
+- Evan Colwell
 
 ## Bit Sponsors
 
-_None yet_
+- Boris Bügling
+- justajester
+- Mattias Petter Johansson
+- Herculano Campos
