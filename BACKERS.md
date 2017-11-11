@@ -9,3 +9,4 @@
 - justajester
 - Mattias Petter Johansson
 - Herculano Campos
+- Sebastian Losch
