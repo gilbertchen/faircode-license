@@ -19,12 +19,12 @@ The motivation behind creating this license is that we want to enable people to 
 
 Although the license is made to work well on the [Faircode](https://faircode.io) platform, we don't want it to be limited to that. It should work equally well if you want to use it independently or with other platforms.
 
-## The license (version 0.2)
+## The license (version 0.2.1)
 
 This is the full license text and can be copied into your repository.
 
 ```
-## {Project name} license (Faircode v0.2)
+## {Project name} license (Faircode v0.2.1)
 
 Copyright (C) {Year} {Copyright holder}
 
@@ -35,11 +35,11 @@ modify, merge, publish, distribute, sublicense, and/or sell copies ("Use") of
 the Software, and to permit persons to whom the Software is furnished to do
 so, subject to the following conditions:
 
-If you are a commercial entity with a revenue in excess of $1,000,000 of the
-previous fiscal year, and/or organization with a budget in excess of 1,000,000
-USD, you must acquire a commercial license grant from {Copyright holder} to
-Use this software. A commercial license grant can be acquired at
-[{Purchase url}]({Purchase url}).
+If you are a commercial entity with a revenue in excess of 1,000,000 USD of
+the previous fiscal year, and/or organization with a budget in excess of
+1,000,000 USD, you must acquire a commercial license grant from
+{Copyright holder} to Use this software. A commercial license grant can be
+acquired at [{Purchase url}]({Purchase url}).
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
