@@ -2,6 +2,7 @@
 
 - Meghan Kane
 - Evan Colwell
+- Jacob Waller
 
 ## Bit Sponsors
 
@@ -10,3 +11,4 @@
 - Mattias Petter Johansson
 - Herculano Campos
 - Sebastian Losch
+- Linus Unnebäck
