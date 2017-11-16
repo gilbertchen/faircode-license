@@ -12,3 +12,4 @@
 - Herculano Campos
 - Sebastian Losch
 - Linus Unnebäck
+- Siddharth
