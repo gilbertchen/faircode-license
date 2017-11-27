@@ -88,16 +88,30 @@ And finally, you can help out by letting people know about this repo. Share it w
 
 See [BACKERS](BACKERS.md).
 
-## How do I use an alpha license?
+## FAQ
+
+### How do I use an alpha license?
 
 Keep an eye on this repository as the license evolves. We'll use semver to version it (see changes in the [CHANGELOG](CHANGELOG.md)). We recommend upgrading to the latest version as soon as it comes out. It's not for everyone to try something new like this, but those who do will help shape what this license is and how it's used, and set examples for future developers who want to try something similar.
 
-## Where can I read more?
+### What happens if a Faircode Licensed project is abandonded by it's creator?
+
+Sometimes life takes us to places where we can’t continue to support the software we’ve built before. In those cases, it’s important that there’s a path forward for the people who rely on this software. This is why the Faircode License is based on MIT; anyone can pick up the software and start a new project around it, where the development can continue of the software. This is all possible because MIT allows sub-licensing.
+
+### Doesn’t that mean anyone can steal the software and start charging for that instead?
+
+In theory, yes. But there are a few barriers to this to an alive project. Links, search results, stars and downloads all stay with the original project even if someone clones it. The same goes for social media accounts (twitter for instance) and “claimed” names on package repositories (for instance if you publish the package “hello” to npm, and someone clones it, “hello” on npm will still point to your repository). None of this is watertight, but “overtaking” someones project is also not as easy as just cloning it and starting to charge for it.
+
+### What stops companies from using that clause in MIT to just not pay for the project?
+
+Again in theory, a company can ask someone (they couldn’t do it themselves because then they’d need to pay for it) to clone your project, re-license it and then publish that and use it. If the company you work at suggest doing this, you should seriously consider alternative employers.
+
+### Where can I read more?
 
 - [Hacker News discussion: Changing the Ungit license from MIT to Faircode](https://news.ycombinator.com/item?id=15628786)
 - [Issue on the Ungit repo](https://github.com/FredrikNoren/ungit/issues/974)
 
-## Who's behind this?
+### Who's behind this?
 
 [Fredrik Norén](https://github.com/FredrikNoren) is the original author and owner of the repo. But anyone who wants to get involved is part of it. The license is for you.
 
