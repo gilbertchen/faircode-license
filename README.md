@@ -1,5 +1,19 @@
 # The Faircode License
 
+Table of Contents
+- [The license](#the-license-version-021)
+- [Roadmap to 1.0](#roadmap-to-10)
+- [How can I help?](#how-can-i-help)
+- [Kickstarter backers](#kickstarter-backers)
+- [FAQ](#faq)
+  - [How do I use an alpha license?](#how-do-i-use-an-alpha-license)
+  - [What happens if a Faircode Licensed project is abandonded by it's creator?](#what-happens-if-a-faircode-licensed-project-is-abandonded-by-its-creator)
+  - [Doesn’t that mean anyone can steal the software and start charging for that instead?](#doesnt-that-mean-anyone-can-steal-the-software-and-start-charging-for-that-instead)
+  - [What stops companies from using that clause in MIT to just not pay for the project?](#what-stops-companies-from-using-that-clause-in-mit-to-just-not-pay-for-the-project)
+  - [Where can I read more?](#where-can-i-read-more)
+  - [Who's behind this?](#whos-behind-this)
+- [License to use this license](#license-to-use-this-license)
+
 This is the public repository of the Faircode License. It's a young and experimental license for people who want to make a living from their code by selling licenses to companies and organizations (but keep their code free for individuals and small businesses). It's meant to be an alternative to, or complement to, [OSI](https://opensource.org/) Open Source licenses.
 
 The goals for this license are:
