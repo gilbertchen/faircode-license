@@ -108,6 +108,10 @@ See [BACKERS](BACKERS.md).
 
 Keep an eye on this repository as the license evolves. We'll use semver to version it (see changes in the [CHANGELOG](CHANGELOG.md)). We recommend upgrading to the latest version as soon as it comes out. It's not for everyone to try something new like this, but those who do will help shape what this license is and how it's used, and set examples for future developers who want to try something similar.
 
+### How can people contribute to a Faircode licensed project?
+
+Contributing to a Faircode licensed project is very similar to contributing to an MIT project. The contributions are still owned by the authors, but by contributing them to the project they agree to license the contributions under the same license as the project. More info here: https://opensource.guide/legal/#does-my-project-need-an-additional-contributor-agreement
+
 ### What happens if a Faircode Licensed project is abandonded by it's creator?
 
 Sometimes life takes us to places where we can’t continue to support the software we’ve built before. In those cases, it’s important that there’s a path forward for the people who rely on this software. This is why the Faircode License is based on MIT; anyone can pick up the software and start a new project around it, where the development can continue of the software. This is all possible because MIT allows sub-licensing.
