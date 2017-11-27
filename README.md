@@ -10,6 +10,7 @@ Table of Contents
   - [What happens if a Faircode Licensed project is abandonded by it's creator?](#what-happens-if-a-faircode-licensed-project-is-abandonded-by-its-creator)
   - [Doesn’t that mean anyone can steal the software and start charging for that instead?](#doesnt-that-mean-anyone-can-steal-the-software-and-start-charging-for-that-instead)
   - [What stops companies from using that clause in MIT to just not pay for the project?](#what-stops-companies-from-using-that-clause-in-mit-to-just-not-pay-for-the-project)
+  - [Are there any alternatives to Faircode?](#are-there-any-alternatives-to-faircode)
   - [Where can I read more?](#where-can-i-read-more)
   - [Who's behind this?](#whos-behind-this)
 - [License to use this license](#license-to-use-this-license)
@@ -123,6 +124,10 @@ In theory, yes. But there are a few barriers to this to an alive project. Links,
 ### What stops companies from using that clause in MIT to just not pay for the project?
 
 Again in theory, a company can ask someone (they couldn’t do it themselves because then they’d need to pay for it) to clone your project, re-license it and then publish that and use it. If the company you work at suggest doing this, you should seriously consider alternative employers.
+
+### Are there any alternatives to Faircode?
+
+[License Zero](https://licensezero.com) is a license with similar goals.
 
 ### Where can I read more?
 
